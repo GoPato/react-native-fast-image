@@ -38,3 +38,18 @@ example/android/app/src/main/gen
 
 # build
 react-native-fast-image-*.tgz
+
+yarn.lock
+
+# Android/IJ
+#
+.idea
+*.iml
+.gradle
+local.properties
+android/.settings/org.eclipse.buildship.core.prefs
+react-native-fast-image-example/android/.settings/org.eclipse.buildship.core.prefs
+react-native-fast-image-example/android/.project
+react-native-fast-image-example-cocoapods/android/.settings/org.eclipse.buildship.core.prefs
+react-native-fast-image-example-cocoapods/android/.project
+android/.project
